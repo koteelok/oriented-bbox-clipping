@@ -1,0 +1,11 @@
+{
+  "name": "oriented-bbox-clipping",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^8.3.1"
+  }
+}
